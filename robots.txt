@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://survivalontherecord.visionmediachannels.com/sitemap.xml
